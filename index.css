@@ -1,6 +1,10 @@
 body {
 background: skyblue;
 }
+h1 {
+  font-size:  18px;
+}
+
 a {
   background: white;
 }
